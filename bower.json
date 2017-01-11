@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate",
+  "description": "asd",
+  "main": "src\\app.js",
+  "authors": [
+    "Krister Johansson"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "asd"
+  ],
+  "homepage": "https://github.com/Krister-Johansson/boilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-less": "^3.3.4"
+  }
+}
